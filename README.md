@@ -28,20 +28,11 @@ This repository contains my submission for **Task 05** of the **Web Development 
 
 ## 📸 Screenshots
 
-| Weather Search | 
+<img width="1279" height="628" alt="Screenshot 2025-07-26 230437" src="https://github.com/user-attachments/assets/0de3f002-4038-474d-b45f-36d2ec482d57" />
 
 
-> *(Replace with actual screenshots if you're uploading them in a `screenshots/` folder)*
 
----
 
-## 📽️ Demo Video
-
-🎥 [Click to Watch the Demo](https://your-demo-link.com)
-
-> *(Upload your demo to Google Drive, GitHub, or YouTube and paste the link here)*
-
----
 
 ## 📂 Folder Structure
 
